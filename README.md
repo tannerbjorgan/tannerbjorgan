@@ -45,7 +45,7 @@ I'm a Computer Science student with a passion for building useful and engaging a
 ## 📊 GitHub Stats
 
 <div align="center">
-  <div style="display: flex; justify-content: space-evenly; align-items: center; flex-wrap: wrap; gap: 20px;">
+  <div style="display: flex; justify-content: space-evenly; align-items: center; flex-wrap: wrap; gap: 10px;">
     <img height="180" src="https://github-readme-stats.vercel.app/api?username=tannerbjorgan&show_icons=true&theme=github_dark" alt="GitHub Stats" />
     <img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=tannerbjorgan&theme=github-dark-blue" alt="GitHub Streak" />
     <img width="300" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tannerbjorgan&layout=compact&theme=github_dark" alt="Top Languages" />

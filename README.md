@@ -14,14 +14,13 @@ I'm a Computer Science student with a passion for building useful and engaging a
 
 ## 🚀 Current Projects
 
-### 📚 FlashCard Study Platform
-- A web-based application helping students master their subjects through interactive flashcards
-- Features spaced repetition and collaborative study features
-
-### 🏃‍♂️ PlayPal Mobile App
-- Connecting campus athletes and sports enthusiasts
-- Find players, organize games, and build a sports community
-- Mobile-first design for seamless coordination
+### 📚 Scribeist: Writing Tools for modern creators
+- A web-based application allowing users to use writing tools with the help of AI
+- Article generation
+- Article generation with research
+- Repurpose content (social media, newsletters)
+- Web scraping
+- Uses Wasp.sh
 
 ### 🎨 AI Art E-Commerce Platform called Infinite Pieces
 - Print-on-demand platform featuring AI-generated artwork
